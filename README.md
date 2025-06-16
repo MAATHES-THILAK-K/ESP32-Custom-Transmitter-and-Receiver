@@ -51,7 +51,13 @@ For official documentation, visit:
   - Indicator LED → `GPIO 25` *(not used in code yet; 220Ω resistor recommended)*  
 
 ---
+## 📎 Hardware Pinout PDF
 
+You can download the complete pin configuration PDF here:
+
+[📥 Download ESP32_Transmitter_Pinout.pdf](ESP32_Transmitter_Pinout.pdf)
+
+---
 ### 📺 Receiver (ESP32-CAM)
 - **OLED Display:** SH1106, I2C via U8g2lib  
   - `SDA` → `GPIO 15`  
